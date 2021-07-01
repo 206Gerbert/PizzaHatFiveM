@@ -1,0 +1,21 @@
+[
+  {
+    "name": "bhilbert44",
+    "master": true,
+    "password_hash": "$2a$11$eTmBxoXPtwuR4EzRPOeCm.FW93sVHgOb/PNX2tkXs6I7TBMW11b9W",
+    "providers": {
+      "citizenfx": {
+        "id": "bhilbert44",
+        "identifier": "fivem:979776",
+        "data": {
+          "sub": "d86c31109aa91fc23ebfa77d01ed0827",
+          "nameid": "https://forum.cfx.re/internal/user/979776",
+          "name": "bhilbert44",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/bhilbert44/256/787638_2.png",
+          "profile": "https://forum.cfx.re/u/bhilbert44"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

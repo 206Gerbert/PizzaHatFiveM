@@ -1,0 +1,43 @@
+
+================================================================
+======== txAdmin starting - 6/9/2021, 2:33:08 PM
+================================================================
+[14:34:11][127.0.0.1][bhilbert44] Changing global/fxserver settings via setup stepper.
+[14:40:04][127.0.0.1][bhilbert44] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 6/9/2021, 2:40:42 PM
+================================================================
+[14:42:14][127.0.0.1][bhilbert44] ensure "wk_brakelights"
+[14:42:33][127.0.0.1][bhilbert44] ensure "11impala"
+[14:42:38][127.0.0.1][bhilbert44] stop "16fpiu"
+[14:42:42][127.0.0.1][bhilbert44] stop "18charger"
+[14:42:46][127.0.0.1][bhilbert44] stop "18tahoe"
+[14:42:50][127.0.0.1][bhilbert44] stop "20tahoe"
+[14:42:54][127.0.0.1][bhilbert44] stop "Hummer"
+[14:42:58][127.0.0.1][bhilbert44] stop "11cvpi"
+[14:43:03][127.0.0.1][bhilbert44] stop "11impala"
+[14:43:08][127.0.0.1][bhilbert44] stop "14tahoe"
+[14:43:14][127.0.0.1][bhilbert44] stop "glad20"
+[15:19:57][127.0.0.1][bhilbert44] stop "15chargerrb"
+[15:19:57][127.0.0.1][bhilbert44] stop "14chgr2"
+[15:19:58][127.0.0.1][bhilbert44] stop "14chgr"
+[15:20:03][127.0.0.1][bhilbert44] stop "ram"
+[15:20:03][127.0.0.1][bhilbert44] stop "vMenu"
+[15:20:04][127.0.0.1][bhilbert44] stop "vSync"
+[15:20:04][127.0.0.1][bhilbert44] stop "wk_brakelights"
+[15:20:08][127.0.0.1][bhilbert44] stop "wk_wrs"
+[15:20:08][127.0.0.1][bhilbert44] stop "wk_brakelights"
+[15:20:13][127.0.0.1][bhilbert44] stop "LPraptor"
+[15:20:13][127.0.0.1][bhilbert44] stop "LPraptorBB"
+[15:20:14][127.0.0.1][bhilbert44] stop "NForce-Pack"
+[15:20:14][127.0.0.1][bhilbert44] stop "PvP"
+[15:20:18][127.0.0.1][bhilbert44] stop "SEM_InteractionMenu-1.7"
+[15:20:18][127.0.0.1][bhilbert44] stop "fax-revive"
+[15:20:18][127.0.0.1][bhilbert44] stop "frfuel"
+[15:20:19][127.0.0.1][bhilbert44] stop "lux_vehcontrol"
+[15:20:21][127.0.0.1][bhilbert44] stop "map"
+
+================================================================
+======== txAdmin starting - 6/14/2021, 8:54:22 PM
+================================================================

@@ -1,0 +1,22 @@
+
+================================================================
+======== FXServer starting - 6/14/2021, 8:54:26 PM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 54 resources.
+[38;5;73m[ citizen-server-impl] Some resources have an outdated resource manifest:
+[38;5;73m[ citizen-server-impl]     - PvP
+[38;5;73m[ citizen-server-impl]     - lux_vehcontrol
+[38;5;73m[ citizen-server-impl] 
+[38;5;73m[ citizen-server-impl] Please update these resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 3.7.0 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;75m[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[38;5;75m[      net-tcp-server] error on connection: address already in use
+[38;5;73m[ citizen-server-impl] Error: Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[38;5;73m[ citizen-server-impl] 
+[38;5;143m[  citizen-server-gui] You can reopen the server GUI using the command svgui.
